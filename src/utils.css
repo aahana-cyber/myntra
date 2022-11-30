@@ -1,0 +1,40 @@
+.flex{
+  display: flex;
+}
+
+.invisible{
+  color: #ffffff
+}
+.uppercase{
+  text-transform: uppercase;
+}
+
+.items-center{             
+  align-items: center;
+}
+.justify-center{          
+  justify-content: center;
+}
+
+.space-around{
+  justify-content: space-evenly;
+}
+.space-between{
+  justify-content: space-between;
+}
+.space-evenly{
+  justify-content: space-evenly;
+}
+
+.semibold{
+  font-weight: bolder;
+}
+
+.mx-2{
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.flex-wrap{
+  flex-wrap: wrap;
+}
